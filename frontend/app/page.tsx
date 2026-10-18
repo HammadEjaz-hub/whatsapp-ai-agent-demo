@@ -75,9 +75,7 @@ export default function ChatPage() {
           <div className="font-semibold text-white">Hammad Fabrics</div>
           <div className="text-xs text-emerald-100">online · AI assistant</div>
         </div>
-        <span className="rounded-full bg-black/30 px-3 py-1 text-xs font-medium text-white">
-          DEMO — WhatsApp nahi, web chat hai
-        </span>
+
       </header>
 
       {/* Messages */}
