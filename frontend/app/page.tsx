@@ -19,7 +19,7 @@ function now(): string {
 
 const WELCOME: Msg = {
   role: "assistant",
-  content: "Assalam-o-Alaikum! Hammad Fabrics mein khush aamdeed. Kapron ke baare mein kuch poochna hai? ",
+  content: "Assalam-o-Alaikum! Hammad Fabrics mein khush amdeed. Kapron ke baare mein kuch poochna hai? ",
   time: now(),
 };
 
